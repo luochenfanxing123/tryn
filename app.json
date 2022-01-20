@@ -1,0 +1,14 @@
+{
+    "name": "Trojan-Go",
+    "description": "Deploy Trojan-Go to Heroku.",
+    "keywords": ["Trojan-Go"],
+    "env": {
+        "PASSWORD": {
+            "description": "Trojan-Go PASSWORD",
+            "value": "password"
+        }
+    },
+    "website": "https://github.com/luochenfanxing123/tryn",
+    "repository": "https://github.com/luochenfanxing123/tryn",
+    "stack": "container"
+}
